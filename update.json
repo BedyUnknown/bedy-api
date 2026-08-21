@@ -1,9 +1,8 @@
 {
-  "arz_status": true,
-  "arz_version": "16.3",
+  "status": true,
+  "version": "16.3",
   "discord": "https://discord.gg/WNAt8ZH8dA",
-  "changelog": "Bedy Unknown",
   "servers": "https://BedyUnknown.github.io/bedy-api/servers.json",
-  "full_list": "https://BedyUnknown.github.io/bedy-api/manifest.json",
-  "lite_list": "https://BedyUnknown.github.io/bedy-api/manifest.json"
+  "game_data": "https://BedyUnknown.github.io/bedy-api/manifest.json",
+  "last_apk": "https://BedyUnknown.github.io/bedy-api/last_apk"
 }

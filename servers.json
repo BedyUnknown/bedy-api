@@ -1,0 +1,5 @@
+{
+  "servers": [
+    { "host": "ip.sttserver.net", "port": 7777 }
+  ]
+}
