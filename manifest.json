@@ -1793,13 +1793,6 @@
       "gpu": "all"
     },
     {
-      "name": ".ByGustaX",
-      "path": "texdb/.ByGustaX",
-      "size": 1,
-      "url": "https://pub-08a59fbc5e314ea4b09f78259e3a1d2f.r2.dev/files/texdb/.ByGustaX",
-      "gpu": "all"
-    },
-    {
       "name": "SAMPCOL.img",
       "path": "texdb/SAMPCOL.img",
       "size": 4253696,
